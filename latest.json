@@ -1,6 +1,6 @@
 {
-  "core": "0.2.0",
+  "core": "0.3.0",
   "released": "2026-10-21",
   "security": false,
-  "note": "Enquiry files encrypted at rest, new pages' share images first, any brand's theme names, and Core's guide in every site."
+  "note": "Launching client sites: production releases that promote UAT's image, and a one-off copy of UAT's content to production."
 }
