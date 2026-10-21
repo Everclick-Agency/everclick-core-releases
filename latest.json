@@ -1,6 +1,6 @@
 {
-  "core": "0.1.0",
+  "core": "0.2.0",
   "released": "2026-10-21",
   "security": false,
-  "note": "The first release of Everclick Core: everything in v1, from content and blocks to forms, consent, search and the WordPress importer."
+  "note": "Enquiry files encrypted at rest, new pages' share images first, any brand's theme names, and Core's guide in every site."
 }
