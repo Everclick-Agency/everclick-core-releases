@@ -1,6 +1,6 @@
 {
-  "core": "0.4.0",
+  "core": "0.5.0",
   "released": "2026-10-22",
   "security": false,
-  "note": "A client site can be made or upgraded on the day Core is published: its managed `pnpm-workspace.yaml` exempts `@everclick-agency/*` from pnpm 12's one-day wait after a release…"
+  "note": "From building Brass Works. Client sites now get Core's code style (`prettier.config.mjs`, with the Tailwind plugin in their dev dependencies) and a `.prettierignore` that keeps Prettier off every…"
 }
