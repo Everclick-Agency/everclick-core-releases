@@ -1,6 +1,6 @@
 {
-  "core": "0.5.0",
+  "core": "0.5.1",
   "released": "2026-10-22",
   "security": false,
-  "note": "From building Brass Works. Client sites now get Core's code style (`prettier.config.mjs`, with the Tailwind plugin in their dev dependencies) and a `.prettierignore` that keeps Prettier off every…"
+  "note": "A site's `prettier.config.mjs` (managed) names its settings before exporting them, so the site's lint (`import/no-anonymous-default-export`) passes."
 }
