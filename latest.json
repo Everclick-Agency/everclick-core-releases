@@ -1,6 +1,6 @@
 {
-  "core": "0.3.0",
-  "released": "2026-10-21",
+  "core": "0.4.0",
+  "released": "2026-10-22",
   "security": false,
-  "note": "Launching client sites: production releases that promote UAT's image, and a one-off copy of UAT's content to production."
+  "note": "A client site can be made or upgraded on the day Core is published: its managed `pnpm-workspace.yaml` exempts `@everclick-agency/*` from pnpm 12's one-day wait after a release…"
 }
